@@ -1,0 +1,13 @@
+O que são variaveis? 
+Uma caixa para guardar informações de diferentes tipos
+
+Quais os principais tipos? Numericos e Textos
+
+>string -> São textos ou caracteres
+>Int -> Numero inteiros
+>Float -> Numero fracionarios
+>Boleano -> Verdadeiro ou Falso
+
+Qual a diferença de variaveis e constates? variavel sofre alterações já a constante não.
+    > Variável -> Posso alterar o conteúdo
+    > Constante -> Não sofre alteração em seu conteúdo
